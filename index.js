@@ -17,25 +17,34 @@ app.use(bodyParser.json());
 let beritaData = [
   {
     id: 1,
-    image: "https://via.placeholder.com/400",
-    title: "Lomba Coding Nasional",
-    description: "Lomba coding untuk mahasiswa seluruh Indonesia.",
+    image:
+      "https://cdn.prod.website-files.com/65af5f0812c914d3fef6a68c/67bd8d63c3bfd403dc75b528_Hasil%20Lomba%20Tahfiz%2010%20Besar.jpeg",
+    title: "Lomba Ngaji Nasional",
+    description:
+      "Lomba Ngaji Nasional diselenggarakan untuk mahasiswa dari seluruh Indonesia sebagai ajang pengembangan kemampuan membaca dan menghafal Al-Qur’an. Kegiatan ini bertujuan menumbuhkan semangat religius, mempererat ukhuwah antar mahasiswa, serta meningkatkan kualitas generasi muda yang berakhlak dan berprestasi di bidang keagamaan.",
     date: "2023-10-25",
   },
   {
     id: 2,
-    image: "https://via.placeholder.com/400",
+    image: "https://matholiulhudabugel.com/images/ma.jpg",
     title: "Update Sistem Kampus",
-    description: "Sistem akademik akan maintenance minggu depan.",
+    description:
+      "Pihak kampus menginformasikan bahwa sistem akademik akan menjalani proses maintenance pada minggu depan. Selama periode tersebut, beberapa layanan seperti pengisian KRS, akses nilai, dan portal mahasiswa mungkin tidak dapat diakses sementara. Mahasiswa diharapkan menyesuaikan jadwal dan menyelesaikan keperluan akademik sebelum maintenance dimulai.",
     date: "2023-11-02",
   },
 ];
 
 // 2. Data Gallery
 let galleryData = [
-  { id: 1, url: "https://via.placeholder.com/400/FF0000" },
-  { id: 2, url: "https://via.placeholder.com/400/00FF00" },
-  { id: 3, url: "https://via.placeholder.com/400/0000FF" },
+  { id: 1, url: "https://matholiulhudabugel.com/images/ma.jpg" },
+  {
+    id: 2,
+    url: "https://mimatholiulhudabugel.com/wp-content/uploads/2025/09/fotosekolah-1024x593.jpg",
+  },
+  {
+    id: 3,
+    url: "https://papuabarat.bpk.go.id/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-13-at-12.32.53.jpeg",
+  },
 ];
 
 // 3. Data Masukkan (Feedback) - BARU
