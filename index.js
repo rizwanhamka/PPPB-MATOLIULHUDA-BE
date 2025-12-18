@@ -62,7 +62,7 @@ let beritaData = [
   {
     id: 6,
     image:
-      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1000&auto=format&fit=crop",
+      "https://ugm.ac.id/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-28-at-15.14.19.jpeg",
     title: "Wisuda Angkatan 2024",
     description:
       "Selamat kepada para wisudawan dan wisudawati yang telah berhasil menyelesaikan masa studinya. Upacara wisuda berlangsung khidmat dengan dihadiri oleh orang tua dan wali. Rektor berpesan agar para lulusan dapat mengamalkan ilmunya untuk kemajuan bangsa dan negara.",
