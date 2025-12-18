@@ -32,6 +32,60 @@ let beritaData = [
       "Pihak kampus menginformasikan bahwa sistem akademik akan menjalani proses maintenance pada minggu depan. Selama periode tersebut, beberapa layanan seperti pengisian KRS, akses nilai, dan portal mahasiswa mungkin tidak dapat diakses sementara. Mahasiswa diharapkan menyesuaikan jadwal dan menyelesaikan keperluan akademik sebelum maintenance dimulai.",
     date: "2023-11-02",
   },
+  {
+    id: 3,
+    image:
+      "https://images.unsplash.com/photo-1544531586-fde5298cdd40?q=80&w=1000&auto=format&fit=crop",
+    title: "Seminar Teknologi AI",
+    description:
+      "Seminar bertajuk 'Masa Depan AI dalam Pendidikan' sukses digelar di aula utama. Acara ini menghadirkan pakar teknologi nasional yang membahas dampak kecerdasan buatan terhadap metode pembelajaran modern. Mahasiswa diajak untuk memanfaatkan teknologi secara bijak sebagai alat bantu produktivitas.",
+    date: "2023-11-15",
+  },
+  {
+    id: 4,
+    image:
+      "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?q=80&w=1000&auto=format&fit=crop",
+    title: "Pekan Olahraga Antar Kelas",
+    description:
+      "Pekan Olahraga tahunan kembali digelar dengan meriah. Berbagai cabang olahraga seperti futsal, bulu tangkis, dan voli dipertandingkan antar kelas untuk mempererat solidaritas dan sportivitas siswa. Final akan dilaksanakan pada akhir pekan ini dengan memperebutkan piala bergilir.",
+    date: "2023-11-20",
+  },
+  {
+    id: 5,
+    image:
+      "https://images.unsplash.com/photo-1593113598332-cd288d649433?q=80&w=1000&auto=format&fit=crop",
+    title: "Bakti Sosial Peduli Lingkungan",
+    description:
+      "Mahasiswa dan staf pengajar berkolaborasi dalam kegiatan penanaman 1000 pohon dan pembersihan area sungai di sekitar kampus. Kegiatan ini merupakan wujud nyata kepedulian civitas akademika terhadap kelestarian lingkungan dan upaya pencegahan banjir di musim penghujan.",
+    date: "2023-12-05",
+  },
+  {
+    id: 6,
+    image:
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1000&auto=format&fit=crop",
+    title: "Wisuda Angkatan 2024",
+    description:
+      "Selamat kepada para wisudawan dan wisudawati yang telah berhasil menyelesaikan masa studinya. Upacara wisuda berlangsung khidmat dengan dihadiri oleh orang tua dan wali. Rektor berpesan agar para lulusan dapat mengamalkan ilmunya untuk kemajuan bangsa dan negara.",
+    date: "2023-12-15",
+  },
+  {
+    id: 7,
+    image:
+      "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?q=80&w=1000&auto=format&fit=crop",
+    title: "Peresmian Perpustakaan Digital",
+    description:
+      "Fasilitas perpustakaan baru yang dilengkapi dengan akses jurnal internasional dan e-book kini resmi dibuka. Dengan desain interior yang modern dan nyaman, diharapkan minat baca dan riset mahasiswa akan meningkat signifikan. Tersedia juga ruang diskusi kedap suara.",
+    date: "2024-01-10",
+  },
+  {
+    id: 8,
+    image:
+      "https://images.unsplash.com/photo-1609599006353-e629aaabfeae?q=80&w=1000&auto=format&fit=crop",
+    title: "Peringatan Isra Mi'raj",
+    description:
+      "Acara pengajian akbar dalam rangka memperingati Isra Mi'raj Nabi Muhammad SAW dihadiri oleh seluruh warga kampus. Penceramah mengingatkan pentingnya meneladani sifat Rasulullah dan meningkatkan kualitas ibadah shalat dalam kehidupan sehari-hari.",
+    date: "2024-02-08",
+  },
 ];
 
 // 2. Data Gallery
@@ -40,10 +94,6 @@ let galleryData = [
   {
     id: 2,
     url: "https://mimatholiulhudabugel.com/wp-content/uploads/2025/09/fotosekolah-1024x593.jpg",
-  },
-  {
-    id: 3,
-    url: "https://papuabarat.bpk.go.id/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-13-at-12.32.53.jpeg",
   },
 ];
 
